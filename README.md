@@ -1,2 +1,2 @@
-# flaskr
+# FlaskTutorial
 Flask official tutorial app
